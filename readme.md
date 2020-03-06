@@ -1,0 +1,1 @@
+This project is just for practicing machine learning skills. It's just about spam classification.
